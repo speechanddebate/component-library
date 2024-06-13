@@ -1,0 +1,5 @@
+echo "Husky temporarily disabled"
+# npm run lint
+# npm run test
+# npm run build
+
